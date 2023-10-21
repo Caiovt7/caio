@@ -1,0 +1,27 @@
+button{
+    background-color: red;
+    color:white;
+    border: none;
+height: 36px;
+width: 105px;
+border-radius: 2px;
+cursor: pointer;
+width: 100px;
+height: 100px;
+position: absolute;
+bottom: 0;
+right: 0;
+left: 0;
+top: 0;
+margin: auto;
+
+
+
+
+}
+html { 
+
+    background: white;
+    
+}
+
